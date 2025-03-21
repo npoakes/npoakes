@@ -1,4 +1,12 @@
 ## Hi there 👋
+I am very new to coding and this is my attempt at starting.
+
+Currently I am just trying to learn, but I am interested in:
+* data science
+*  games development
+*  trying my hand at new languages!
+
+
 
 <!--
 **npoakes/npoakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
