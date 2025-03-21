@@ -2,9 +2,10 @@
 I am very new to coding and this is my attempt at starting.
 
 Currently I am just trying to learn, but I am interested in:
+* geospatial data
 * data science
-*  games development
-*  trying my hand at new languages!
+* games development
+* trying my hand at new languages!
 
 
 
